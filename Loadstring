@@ -1,2 +1,2 @@
-# Loadstring
+Loadstring:
 loadstring(game:HttpGet("/Fazedrab/ImpactClientForRoblox/main/main.lua", true))()
